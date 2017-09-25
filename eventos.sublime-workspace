@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"num2"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"a",
+				"alternate-reverse"
+			],
+			[
+				"anima",
+				"animation-direction"
+			],
+			[
+				"animati",
+				"animation-iteration-count"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/JavaScript/funcoes.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/JavaScript/teste.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/JavaScript/while.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/JavaScript/operacoes.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/JavaScript/arrayMultidimensional.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/JavaScript/switch.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/JavaScript/concatenacao.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/JavaScript/array.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/JavaScript/Variaveis.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/JavaScript/js/javascript.js",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/JavaScript/index.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/projetoBootstrap/estilo.css",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/projetoBootstrap/overflow.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/projetoBootstrap/estilo_spotify.css",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/projetoBootstrap/index.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/projetoBootstrap/icones.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/projetoBootstrap/modal_window.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/projetoBootstrap/tabs.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/projetoBootstrap/formulario.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/normalize.css",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/Testes/estilo.css",
+		"/C/Users/alexandre.teixeira/OneDrive/Documentos/site/Testes/animation.html",
+		"/C/Users/alexandre.teixeira/Desktop/teste.css",
+		"/C/Users/alexandre.teixeira/OneDrive/Udemy/DesenvolvimentoWeb/html/projetofinal/contato.html",
+		"/C/xampp/htdocs/rbc/lib/pkp/locale/pt_BR/common.xml",
+		"/C/xampp/htdocs/rbc/lib/pkp/locale/pt_BR/user.xml",
+		"/C/xampp/htdocs/rbc/lib/pkp/locale/pt_BR/admin.xml",
+		"/C/Users/alexandre.teixeira/OneDrive/Udemy/DesenvolvimentoWeb/html/index.html",
+		"/C/Users/alexandre.teixeira/OneDrive/ProjetoWeb/index.html",
+		"/C/Users/alexandre.teixeira/OneDrive/Udemy/DesenvolvimentoWeb/PrimeiraAula/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arquivos",
+			"arti",
+			"arquivos",
+			"arquivo",
+			"navigationPrimary",
+			"pkp_navigation_primary_wrapper"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "eventos.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

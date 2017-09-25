@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>Eventos</title>
+<meta chatset="UTF-8">
+
+<script type="text/javascript">
+
+//Eventos
+//onclick - acionado no clique do mouse
+//ondlclick - acionado no duplo clique do mouse
+//onmousedown - acionado no clique do moise (soltando ou nao o botão)
+//onmouseover - acionado quando o cursor do mouse sobrepõe o elemento da página
+//onmouseout - acionado quando o cursor do mouse sai da área de um elemento da página;
+
+function msgTeste(){
+	alert("Olá, teste bem sucedido do evento onclick");
+}
+
+function msgTesteOndblclick(){
+	alert("Olá, teste bem sucedido do evento ondblclick");
+}
+
+
+</script>
+
+</head>
+
+<body>
+
+<div onclick="msgTeste()" style="background-color: #ccc;height:100px;width:100px;"></div>
+<div ondblclick="msgTesteOndblclick()" style="background-color: #F00;height:100px;width:100px;"></div>
+
+</body>
+</html>
